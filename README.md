@@ -10,10 +10,8 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 - [Open Datasets & Benchmarks](#open-datasets--benchmarks)
 - [Policy / Control / Tactile Representation](#policy--control--tactile-representation)
 
-## VLA / VTLA
-
 <details open>
-<summary>Papers</summary>
+<summary><h2>VLA / VTLA</h2></summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -25,10 +23,8 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 
 </details>
 
-## World Model / Prediction
-
 <details open>
-<summary>Papers</summary>
+<summary><h2>World Model / Prediction</h2></summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -40,10 +36,8 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 
 </details>
 
-## Data Collection & Hardware
-
 <details open>
-<summary>Papers</summary>
+<summary><h2>Data Collection & Hardware</h2></summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -52,10 +46,8 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 
 </details>
 
-## Open Datasets & Benchmarks
-
 <details open>
-<summary>Papers</summary>
+<summary><h2>Open Datasets & Benchmarks</h2></summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -69,10 +61,8 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 
 </details>
 
-## Policy / Control / Tactile Representation
-
 <details open>
-<summary>Papers</summary>
+<summary><h2>Policy / Control / Tactile Representation</h2></summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|

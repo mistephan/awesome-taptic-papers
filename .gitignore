@@ -1,0 +1,18 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+
+# Local corpus and generated artifacts are not part of the public reading list.
+*.pdf
+outputs/
+projects/
+.DS_Store
+
+# Keep only the public README as Markdown by default.
+*.md
+!README.md
+
+# Local helper scripts and onboarding notes.
+cloudinary_onboarding.py
+scripts/

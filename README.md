@@ -12,6 +12,9 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 
 ## VLA / VTLA
 
+<details open>
+<summary>Papers</summary>
+
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
 | 2025-07-12 | Tactile-VLA | Tactile-VLA: Unlocking Vision-Language-Action Model's Physical Knowledge for Tactile Generalization | arXiv | [Paper](https://arxiv.org/abs/2507.09160) | Connects VLA reasoning to tactile feedback and force-aware action. |
@@ -20,7 +23,12 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 | 2026-06-27 | TAP-VLA | TAP-VLA: Tactile Annotation Prompting for Vision Language Action Models | arXiv | [Paper](https://arxiv.org/abs/2606.29089) | Overlays tactile annotations into the visual observation space without changing the VLA architecture. |
 | 2026-06-30 | UniTacVLA | UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models | arXiv | [Paper](https://arxiv.org/abs/2606.31723) | Combines tactile understanding, future tactile prediction, and tactile-action control. |
 
+</details>
+
 ## World Model / Prediction
+
+<details open>
+<summary>Papers</summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -30,14 +38,24 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 | 2026-06-25 | Tactile-WAM | Tactile-WAM: Touch-Aware World Action Model with Tactile Asymmetric Attention | arXiv | [Paper](https://arxiv.org/abs/2606.26663) | Adds tactile asymmetric attention to protect video prediction while improving action generation. |
 | 2026-07-02 | VT-WAM | VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation | arXiv | [Paper](https://arxiv.org/abs/2607.02503), [Project](https://vt-wam.github.io/) | Jointly learns future visual prediction, tactile deformation prediction, and action prediction. |
 
+</details>
+
 ## Data Collection & Hardware
+
+<details open>
+<summary>Papers</summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
 | 2026-01-31 | LVTG | A Low-Cost Vision-Based Tactile Gripper with Pretraining Learning for Contact-Rich Manipulation | arXiv | [Paper](https://arxiv.org/abs/2602.00514) | Low-cost visuo-tactile gripper with pretraining for contact-rich manipulation. |
 | 2026-04-22 | FingerEye | FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation | arXiv | [Paper](https://arxiv.org/abs/2604.20689), [Project](https://nus-lins-lab.github.io/FingerEyeWeb/) | Continuous pre-contact and post-contact vision-tactile sensing hardware. |
 
+</details>
+
 ## Open Datasets & Benchmarks
+
+<details open>
+<summary>Papers</summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -49,7 +67,12 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 | 2026-06-30 | RCT | RCT: A Robot-Collected Touch-Vision-Language Dataset for Tactile Generalization | arXiv | [Paper](https://arxiv.org/abs/2606.31694), [Project](https://faerber-lab.github.io/RCT/) | Robot-collected touch-vision-language data with held-out material evaluation. |
 | 2026-06-30 | RoboTacDex | RoboTacDex: A Dexterous Visual-Tactile-Action Dataset for Humanoid Manipulation | arXiv | [Paper](https://arxiv.org/abs/2606.31836) | Humanoid manipulation dataset with multi-view vision, tactile feedback, and action trajectories. |
 
+</details>
+
 ## Policy / Control / Tactile Representation
+
+<details open>
+<summary>Papers</summary>
 
 | Date | Method | Paper | Venue/Status | Links | Notes |
 |---|---|---|---|---|---|
@@ -61,3 +84,5 @@ A curated reading list for vision-tactile robot learning, with an emphasis on ta
 | 2026-06-30 | TactX | TactX: Learning Shared Tactile Representations Across Diverse Sensors | arXiv | [Paper](https://arxiv.org/abs/2606.31236) | Sensor-agnostic tactile latent space across resistive, magnetic, and vision-based sensors. |
 | 2026-07-01 | H-Tac / TTP | Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation | arXiv | [Paper](https://arxiv.org/abs/2607.01067) | Human-to-robot tactile pretraining with future tactile prediction. |
 | 2026-07-02 | TacImag | Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations | arXiv | [Paper](https://arxiv.org/abs/2607.01684) | Predicts imagined tactile observations for deployment without tactile sensors. |
+
+</details>

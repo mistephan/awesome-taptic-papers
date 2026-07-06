@@ -2,8 +2,6 @@
 
 A curated reading list for vision-tactile robot learning, with an emphasis on tactile VLA/VTLA, world models, data collection, open datasets, tactile policy learning, and contact-rich manipulation.
 
-Inspired by the awesome-list style of [ddz16/TSFpaper](https://github.com/ddz16/TSFpaper). Links are external only; local PDFs and generated working files are intentionally ignored by Git.
-
 ## Contents
 
 - [VLA / VTLA](#vla--vtla)
@@ -11,7 +9,6 @@ Inspired by the awesome-list style of [ddz16/TSFpaper](https://github.com/ddz16/
 - [Data Collection & Hardware](#data-collection--hardware)
 - [Open Datasets & Benchmarks](#open-datasets--benchmarks)
 - [Policy / Control / Tactile Representation](#policy--control--tactile-representation)
-- [Maintenance Notes](#maintenance-notes)
 
 ## VLA / VTLA
 
@@ -64,10 +61,3 @@ Inspired by the awesome-list style of [ddz16/TSFpaper](https://github.com/ddz16/
 | 2026-06-30 | TactX | TactX: Learning Shared Tactile Representations Across Diverse Sensors | arXiv | [Paper](https://arxiv.org/abs/2606.31236) | Sensor-agnostic tactile latent space across resistive, magnetic, and vision-based sensors. |
 | 2026-07-01 | H-Tac / TTP | Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation | arXiv | [Paper](https://arxiv.org/abs/2607.01067) | Human-to-robot tactile pretraining with future tactile prediction. |
 | 2026-07-02 | TacImag | Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations | arXiv | [Paper](https://arxiv.org/abs/2607.01684) | Predicts imagined tactile observations for deployment without tactile sensors. |
-
-## Maintenance Notes
-
-- Papers are sorted by submission date within each section.
-- The local corpus currently contains 28 PDFs, represented as 27 unique README entries after merging duplicate copies of *Visual-tactile Pretraining and Online Multitask Learning for Humanlike Manipulation Dexterity*.
-- `Link TBD` means no reliable external paper page was found during this pass; avoid adding a link until it can be verified.
-- Local PDFs, generated outputs, project work folders, and private environment files should remain untracked.
